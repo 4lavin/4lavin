@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alvin Gañas</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4lavin&label=Profile%20views&color=0e75b6&style=flat" alt="4lavin" /> </p>
 
 <h3 align="left">Connect with me:</h3>
